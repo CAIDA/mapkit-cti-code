@@ -12,3 +12,7 @@ The path file: [[download link](https://) will be added shortly]
 
 
 ### Scripts ###
+* transit_path_metric.py - computing the ATI value for each ASN in a country specified by country-code
+```
+$ transit_path_metric.py [two-letter-country-code]
+```
