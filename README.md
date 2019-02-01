@@ -6,9 +6,10 @@ We conduct our analyses with a set of 230,848,218 IPv4 AS-level paths observed i
 The path file: [[download link](https://) will be added shortly]
 
 #### Supporting Data ####
-* RIR information
-* BGP monitor geolocation
-* AS relationship
+* RIR information (delegation file): IP prefix assignment
+* ASN information (asn-to-country): ASN, country, prefix count and precentage, IP count and percentage
+* BGP monitor geolocation: the country of BGP monitors that observe BGP path
+* AS relationship: specify the relationship between peers (c2p, p2c, p2p)
 
 
 ### Scripts ###
