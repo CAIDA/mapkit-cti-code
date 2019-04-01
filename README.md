@@ -8,8 +8,9 @@ The path file: [[download link](https://) will be added shortly]
 #### Supporting Data ####
 * RIR information (delegation file): IP prefix assignment
 * ASN information (asn-to-country): ASN, country, prefix count and precentage, IP count and percentage
-* BGP monitor geolocation: the country of BGP monitors that observe BGP path
-* AS relationship: specify the relationship between peers (c2p, p2c, p2p)
+* BGP monitor geolocation: the country of BGP monitors that observe BGP path - `data/20180301.geo-collectors-final.json`
+* AS relationship: specify the relationship between peers (c2p, p2c, p2p) - `data/20180301.as-rel.txt`
+* Prefixes-to-country mapping: the IP geolocation results from Maxmind's free version - `data/pfx-to-country.2018-03-01.maxmind`
 
 
 ### Scripts ###
