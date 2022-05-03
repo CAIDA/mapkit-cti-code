@@ -20,7 +20,7 @@ The first column is the AS Number - ASName, and the second column is the CTI val
 We also publish the number of addresses originated by each AS in each country. Files are named as <CC>.csv, with <CC> being the 2-letter country code.
 The columns are explained in the README.md file in the Origin subdirectory.
 
-## Subdirectory TransitDominance
+## Subdirectory: TransitDominance
 
 We release our findings from the transit-dominance analysis in the CTI paper.
   
@@ -30,7 +30,7 @@ https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/TransitDo
 From Sec. 6.1: percentage of a country's address space originated by candidate ASes (column 3, country_perc_addresses).
 https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/TransitDominance/individual_as_country_qualifier_20200301.csv
   
-## Subdirectory Misc:
+## Subdirectory: Misc
   
 From Sec. 9.1: Comparison with Hegemony for each AS-Country pair:
   https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/combined_joint_cti_hegemony.csv
