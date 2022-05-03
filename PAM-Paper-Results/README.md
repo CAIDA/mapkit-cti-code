@@ -1,4 +1,4 @@
-# Welcome to the CTI Repo!
+# CTI Results
 
 Main developer and researcher: Alexander Gamero-Garrido (GitHub:@gamero email:gamero@alum.mit.edu)
 
