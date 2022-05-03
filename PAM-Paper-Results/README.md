@@ -1,4 +1,5 @@
 # Welcome to the CTI Repo!
+
 Main developer and researcher: Alexander Gamero-Garrido (GitHub:@gamero email:gamero@alum.mit.edu)
 
 Contributors: Esteban Carisimo, Vishwesh Rege, Alistair King, Shuai Hao, Bradley Huffaker, Amogh Dhamdhere, Alex C. Snoeren and Alberto Dainotti
@@ -12,13 +13,18 @@ This project was awarded Best Dataset at the Passive and Active Measurement Conf
 ## Subdirectory: CTI
 
 This directory contains the core results of the CTI paper (Sec. 5.1): the CTI values for each Autonomous System in each country.
-Files are named as CC.csv, with CC being the 2-letter country code.
-The first column is the AS Number - ASName, and the second column is the CTI value for that AS.
+
+- https://github.com/CAIDA/mapkit-cti-code/tree/master/PAM-Paper-Results/CTI/CC.csv
+- Files are named as CC.csv, with CC being the 2-letter country code.
+- The first column is the AS Number - ASName, and the second column is the CTI value for that AS.
 
 ### Origin
 
-We also publish the number of addresses originated by each AS in each country. Files are named as CC.csv, with CC being the 2-letter country code.
-The columns are explained in the README.md file in the Origin subdirectory.
+We also publish the number of addresses originated by each AS in each country. 
+
+- https://github.com/CAIDA/mapkit-cti-code/tree/master/PAM-Paper-Results/CTI/origin/CC.csv
+- Files are named as CC.csv, with CC being the 2-letter country code.
+- The columns are explained in the README.md file in the Origin subdirectory.
 
 ## Subdirectory: TransitDominance
 
