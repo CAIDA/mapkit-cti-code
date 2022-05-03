@@ -30,20 +30,22 @@ We also publish the number of addresses originated by each AS in each country.
 
 We release our findings from the transit-dominance analysis in the CTI paper.
   
-From Sec. 6.3: Country-level transit fractions T(C) for countries in our sample (column 5, transit_w_scaled)
+From Sec. 6.3: Country-level transit fractions T(C) for countries in our sample
 
 - https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/TransitDominance/country.transit.summary.202003.csv 
+- T(C) is in column 5, transit_w_scaled
   
-From Sec. 6.1: percentage of a country's address space originated by candidate ASes (column 3, country_perc_addresses)
+From Sec. 6.1: percentage of a country's address space originated by candidate ASes 
 
 - https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/TransitDominance/individual_as_country_qualifier_20200301.csv
+- percentage of a country's address space originated by candidate ASes is in column 3, country_perc_addresses
   
 ## Subdirectory: Misc
   
 From Sec. 9.1: Comparison with Hegemony:
 
 - https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/combined_joint_cti_hegemony.csv
-- Data for all AS-Country pairs: asn,cti,hegemony
+- Data for all AS-Country pairs: ASN, CTI, Hegemony
   
 From Sec. 5.2: Submarine cable operators
 
