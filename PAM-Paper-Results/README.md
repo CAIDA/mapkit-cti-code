@@ -40,16 +40,20 @@ From Sec. 6.1: percentage of a country's address space originated by candidate A
   
 ## Subdirectory: Misc
   
-From Sec. 9.1: Comparison with Hegemony for each AS-Country pair:
+From Sec. 9.1: Comparison with Hegemony:
 
 - https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/combined_joint_cti_hegemony.csv
+- Data for all AS-Country pairs: asn,cti,hegemony
   
-From Sec. 5.2: Submarine cable operators in each relevant country
+From Sec. 5.2: Submarine cable operators
 
 - https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/LIST_SUBMARINE_CABLE_OPERATORS_AND_ASES.xlsx
-  
-From Sec. 5.3: State-owned ASes, Column 2 is CTIn, Column 3 is F(C), Column 4 is Directly Originated
-  
+- Data for each non-landlocked country
+- Column headers: Country Code,	Country Name,	CTI Rank,	Top AS, Top AS CTI, Submarine Cable(s)
+ 
+From Sec. 5.3: State-owned ASes
+    
 - https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/state_owned_F_CTIn.csv
+- Column 2 is CTIn, Column 3 is F(C), Column 4 is Directly Originated
   
   
