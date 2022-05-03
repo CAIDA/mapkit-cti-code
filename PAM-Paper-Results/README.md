@@ -42,7 +42,7 @@ From Sec. 6.1: percentage of a country's address space originated by candidate A
   
 ## Subdirectory: Misc
   
-From Sec. 9.1: Comparison with Hegemony:
+From Sec. 9.1: Comparison with Hegemony
 
 - https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/combined_joint_cti_hegemony.csv
 - Data for all AS-Country pairs: ASN, CTI, Hegemony
