@@ -24,21 +24,26 @@ The columns are explained in the README.md file in the Origin subdirectory.
 
 We release our findings from the transit-dominance analysis in the CTI paper.
   
-From Sec. 6.3: Country-level transit fractions T(C) for countries in our sample (column 5, transit_w_scaled):
-https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/TransitDominance/country.transit.summary.202003.csv 
+From Sec. 6.3: Country-level transit fractions T(C) for countries in our sample (column 5, transit_w_scaled)
+
+- https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/TransitDominance/country.transit.summary.202003.csv 
   
-From Sec. 6.1: percentage of a country's address space originated by candidate ASes (column 3, country_perc_addresses).
-https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/TransitDominance/individual_as_country_qualifier_20200301.csv
+From Sec. 6.1: percentage of a country's address space originated by candidate ASes (column 3, country_perc_addresses)
+
+- https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/TransitDominance/individual_as_country_qualifier_20200301.csv
   
 ## Subdirectory: Misc
   
 From Sec. 9.1: Comparison with Hegemony for each AS-Country pair:
-  https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/combined_joint_cti_hegemony.csv
+
+- https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/combined_joint_cti_hegemony.csv
   
-From Sec. 5.2: Submarine cable operators in each relevant country:
-  https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/LIST_SUBMARINE_CABLE_OPERATORS_AND_ASES.xlsx
+From Sec. 5.2: Submarine cable operators in each relevant country
+
+- https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/LIST_SUBMARINE_CABLE_OPERATORS_AND_ASES.xlsx
   
- From Sec. 5.3: State-owned ASes, Column 2 is CTIn, Column 3 is F(C), Column 4 is Directly Originated
-  https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/state_owned_F_CTIn.csv
+From Sec. 5.3: State-owned ASes, Column 2 is CTIn, Column 3 is F(C), Column 4 is Directly Originated
+  
+- https://github.com/CAIDA/mapkit-cti-code/blob/master/PAM-Paper-Results/Misc/state_owned_F_CTIn.csv
   
   
