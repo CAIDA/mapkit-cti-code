@@ -17,7 +17,7 @@ The first column is the AS Number - ASName, and the second column is the CTI val
 
 ### Origin
 
-We also publish the number of addresses originated by each AS in each country. Files are named as <CC>.csv, with <CC> being the 2-letter country code.
+We also publish the number of addresses originated by each AS in each country. Files are named as CC.csv, with CC being the 2-letter country code.
 The columns are explained in the README.md file in the Origin subdirectory.
 
 ## Subdirectory: TransitDominance
